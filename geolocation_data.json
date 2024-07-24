@@ -1,0 +1,23 @@
+{
+    "location": {
+        "lat": 10.6463232,
+        "lng": -61.489152
+    },
+    "accuracy": 49664.561066314694,
+    "ipAddress": "127.0.0.1",
+    "device": "Other",
+    "browser": "Chrome",
+    "browserVersion": "126",
+    "os": "Linux",
+    "osVersion": null,
+    "screen": {
+        "width": "unknown",
+        "height": "unknown"
+    },
+    "viewport": {
+        "width": "unknown",
+        "height": "unknown"
+    },
+    "timeZone": "unknown",
+    "language": "en-US,en;q=0.9"
+}
